@@ -24,3 +24,5 @@ Programm kann beendet werden
 - unterschiedliche Buchstaben haben unterschiedliche Wahrscheinlichkeiten in einem Wort aufzutauchen --> Buchstaben mit höherer Wahrscheinlichkeit (z. B. Vokale) werden zuerst geraten
 - Implementation von deutschen Grammatikregeln (z. B. nach dem Buchstaben Q folgt ein U)
 
+
+Test commit
